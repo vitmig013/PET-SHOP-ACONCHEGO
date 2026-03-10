@@ -50,7 +50,7 @@ dois profissionais capacitados. A empresa possui capacidade para realizar cerca
 de 8 atendimentos por dia, totalizando aproximadamente 176 atendimentos 
 mensais nos serviços de banho e tosa.
 
-O serviço de creche funciona em período estendido, das 8h às 17h20, e 
+O serviço de creche funciona em período estendido, das 9h às 17h, e 
 conta com dois cuidadores responsáveis pelo acompanhamento e supervisão 
 dos animais durante todo o período de permanência. A capacidade máxima de 
 atendimento da creche é de 12 animais por dia.
