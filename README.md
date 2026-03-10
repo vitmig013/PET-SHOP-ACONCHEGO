@@ -28,12 +28,12 @@ Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e comprometime
 ### VALORES
 Ética e transparência com os clientes, atendimento humanizado, profissionalismo e responsabilidade.
 
-Problema: “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
+**Problema:** “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
 
 
-Objetivo: “A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
+**Objetivo:** “A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
 
-O que o aplicativo precisa oferecer (RF)
+### O que o aplicativo precisa oferecer (RF)
 
 Agendamento online
 O cliente deve conseguir marcar banho e tosa diretamente pelo aplicativo data, horário, tipo de serviço (banho, tosa, hidratação, etc.) e profissional disponível.
@@ -56,7 +56,7 @@ Para o dono do pet shop visualizar: agenda do dia, quantidade de atendimentos, c
 Facilidade de uso
 O aplicativo precisa ser: simples, rápido, fácil de entender para clientes e funcionários.
 
-O que o aplicativo NÃO pode errar (RN)
+### O que o aplicativo NÃO pode errar (RN)
 
 1. Não pode permitir dois agendamentos no mesmo horário. Evitar conflitos de agenda.
 2. Não pode perder dados. Informações de clientes e pets devem ser armazenadas
@@ -65,7 +65,7 @@ com segurança.
 4. Não pode ser complicado
 Se for difícil de usar, o cliente prefere ligar ou mandar mensagem,perdendo o objetivo do sistema.
 
-OBSTÁCULOS E RESTRIÇÕES
+## OBSTÁCULOS E RESTRIÇÕES
 
 Minha agenda encontra-se bastante restrita neste momento, podendo ser agendadas reuniões apenas nas terças e quartas-feiras no período da manhã.
 
@@ -76,7 +76,7 @@ Funcionalidades:
 CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
 
 
-PERFIL DE USUÁRIO
+## PERFIL DE USUÁRIO
 GERENTE ( deve ter total acesso ao aplicativo), ADMINISTRATIVO ( acesso ao cadastro e a agenda), TOSADOR (acesso à uma página para descrição de intercorrência).
 Classes de domínio
 CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS, DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
@@ -93,7 +93,7 @@ O sistema oferece serviços e o cliente seleciona o desejado;
 3.1. O sistema oferece calendário para seleção de datas e serviços prestados disponíveis.
 3.2. O cliente seleciona data e horário desejado o tornando indisponível para uma nova seleção.
 O sistema exibe mensagem de sucesso.
-	4.1. O sistema exibe uma mensagem de agradecimento e que o horário foi reservado com sucesso.
+4.1. O sistema exibe uma mensagem de agradecimento e que o horário foi reservado com sucesso.
 
 
 
