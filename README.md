@@ -1,4 +1,4 @@
-PROJETO: PET SHOP ACONCHEGO
+# PROJETO: PET SHOP ACONCHEGO
 
 	Integrantes do grupo
 
