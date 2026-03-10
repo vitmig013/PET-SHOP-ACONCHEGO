@@ -56,14 +56,33 @@ dos animais durante todo o período de permanência. A capacidade máxima de
 atendimento da creche é de 12 animais por dia.
   
   
-### MISSÃO
-Oferecer serviços de banho e tosa com excelência, segurança e carinho, promovendo bem-estar aos pets, priorizando a confiança e tranquilidade aos seus tutores.
+**Ficha da empresa:**
 
-### VISÃO
-Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e comprometimento com o cliente.
+**Nome:** Pet Shop Aconchego.
+**Ramo:** Serviços de cuidados com animais domésticos.
 
-### VALORES
-Ética e transparência com os clientes, atendimento humanizado, profissionalismo e responsabilidade.
+**Porte da empresa:** pequeno/médio.
+**Total de funcionários:** 6.
+**Animais permitidos:** Cães e gatos.
+**Serviços oferecidos:** banho, tosa e creche para cães e gatos.
+**Horários e dias de funcionamento:**
+De terça a sábado;
+Banho e tosa: 09h às 17h20.
+**Creche:** 08h às 17h20.
+
+### Missão:
+Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
+promovendo bem-estar aos pets, priorizando a confiança e tranquilidade aos 
+seus tutores.
+### Visão:
+Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e 
+comprometimento com o cliente.
+### Valores:
+Ética e transparência com os clientes
+Atendimento humanizado
+Profissionalismo
+Responsabilidade
+
 
 **Problema:** “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
 
