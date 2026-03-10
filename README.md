@@ -144,7 +144,7 @@ CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI
 ### Classes de domínio
 - CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS, DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
 
-Realização do cadastro do cliente;
+**Realização do cadastro do cliente:**
 1. Cliente realiza cadastro ou realiza login quando já existe cadastro.
   
 2. Validar e armazenar informações;  
