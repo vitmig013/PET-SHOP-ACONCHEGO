@@ -17,7 +17,42 @@ Criar um aplicativo Desktop, para o gerenciamento dos serviços prestados.
 
 ## PET SHOP ACONCHEGO
 
-A empresa atua no ramo de prestação de serviços classificada como Micro Empresa (MEI), oferecendo banho e tosa por meio de agendamentos. Atualmente, a operação é realizada num espaço próprio, o pet será recolhido por um serviço de Táxi especializado, terá seus devidos cuidados realizados no estabelecimento, para posteriormente ser devolvido ao tutor pelo mesmo serviço. O Pet Shop tende a ser colaborativo, com um ambiente informal porém com foco no cuidado e bem-estar dos pets. A empresa valoriza a organização e a agilidade, tendo serviços realizados sempre nos prazos estabelecidos.
+# Introdução
+Criada em julho de 2024, a Pet Shop Aconchego é uma empresa voltada 
+aos cuidados de animais domésticos, especificamente cães e gatos.
+
+Sua proprietária, a Sra. Maria Silva, sempre teve o sonho de se tornar 
+empreendedora. Após trabalhar durante oito anos como funcionária em uma 
+empresa de telemarketing, em 2024 conseguiu finalmente realizar esse objetivo, 
+dando origem à Pet Shop Aconchego.
+
+A empresa não possui sócios. A proprietária optou por administrar o negócio 
+sozinha, pois, ao longo de sua experiência profissional, presenciou conflitos 
+entre sócios em outras empresas, o que a motivou a seguir de forma 
+independente.
+
+Localizada na Rua Teodoro Sampaio, nº 1.212, no Bairro Pinheiros, em São 
+Paulo/SP, a empresa conta com uma infraestrutura simples, porém adequada 
+para oferecer conforto e segurança aos animais.
+
+Atualmente, a Pet Shop Aconchego possui uma equipe formada por seis
+funcionários: um gerente, um administrador, dois funcionários responsáveis 
+pelos serviços de banho e tosa, e dois cuidadores que atuam na área da creche.
+
+Serviços Prestados
+
+A Pet Shop Aconchego oferece serviços voltados ao cuidado e bem-estar 
+de animais domésticos, atuando nas áreas de banho, tosa e creche.
+
+Os serviços de banho e tosa são realizados por uma equipe composta por 
+dois profissionais capacitados. A empresa possui capacidade para realizar cerca 
+de 8 atendimentos por dia, totalizando aproximadamente 176 atendimentos 
+mensais nos serviços de banho e tosa.
+
+O serviço de creche funciona em período estendido, das 8h às 17h20, e 
+conta com dois cuidadores responsáveis pelo acompanhamento e supervisão 
+dos animais durante todo o período de permanência. A capacidade máxima de 
+atendimento da creche é de 12 animais por dia.
 
 ### MISSÃO
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, promovendo bem-estar aos pets, priorizando a confiança e tranquilidade aos seus tutores.
