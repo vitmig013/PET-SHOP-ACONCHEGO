@@ -2,12 +2,12 @@
 
 Integrantes do grupo
 
-Gabriel dos Santos Loth 
-Karyn Aparecida da Silva
-Kemily Teixeira dos Santos
-Marcio Anderson da Silva Cavalcante
-Vitor Miguel Costa Macedo
-Wilson Gonsaga de Souza Neto
+Gabriel dos Santos Loth  
+Karyn Aparecida da Silva  
+Kemily Teixeira dos Santos  
+Marcio Anderson da Silva Cavalcante  
+Vitor Miguel Costa Macedo  
+Wilson Gonsaga de Souza Neto  
 
 
 ## OBJETIVO DO TRABALHO
