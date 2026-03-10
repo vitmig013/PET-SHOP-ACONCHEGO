@@ -146,7 +146,7 @@ CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI
 
 Realização do cadastro do cliente;
 1. Cliente realiza cadastro ou realiza login quando já existe cadastro.  
- - Validar e armazenar informações;  
+ _ Validar e armazenar informações;  
 2.1. O sistema valida as informações e as armazena ou exibe uma mensagem de erro.  
 O sistema oferece serviços e o cliente seleciona o desejado;  
 3.1. O sistema oferece calendário para seleção de datas e serviços prestados disponíveis.  
