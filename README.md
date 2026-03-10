@@ -84,32 +84,34 @@ Profissionalismo
 Responsabilidade
 
 
-**Problema:** “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
+**Problema:**
+“Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
 
-**Objetivo:** “A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
+**Objetivo:**
+“A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
   
   
 ## O que o aplicativo precisa oferecer (RF)
 
-Agendamento online
+**Agendamento online**  
 O cliente deve conseguir marcar banho e tosa diretamente pelo aplicativo data, horário, tipo de serviço (banho, tosa, hidratação, etc.) e profissional disponível.
 
-Cadastro completo do cliente e do pet
+**Cadastro completo do cliente e do pet**  
 O sistema deve permitir cadastrar: nome do tutor, telefone / WhatsApp, nome do pet, raça, porte, idade, observações (alergias, comportamento, restrições).
 
-Organização da agenda
+**Organização da agenda**  
 A agenda precisa mostrar: horários disponíveis, horários ocupados, profissional responsável, tempo de cada serviço.
 
-Histórico do pet
+**Histórico do pet**  
 Guardar informações como: serviços realizados, frequência de banho, observações do profissional
 
-Controle financeiro básico
+**Controle financeiro básico**  
 O aplicativo pode registrar: valor do serviço, forma de pagamento, faturamento diário.
 
-Painel administrativo
+**Painel administrativo**  
 Para o dono do pet shop visualizar: agenda do dia, quantidade de atendimentos, clientes frequentes, serviços mais solicitados.
 
-Facilidade de uso
+**Facilidade de uso**  
 O aplicativo precisa ser: simples, rápido, fácil de entender para clientes e funcionários.
   
   
