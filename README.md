@@ -17,7 +17,7 @@ Criar um aplicativo Desktop, para o gerenciamento dos serviços prestados.
 
 ## PET SHOP ACONCHEGO
 
-# Introdução
+### Introdução
 Criada em julho de 2024, a Pet Shop Aconchego é uma empresa voltada 
 aos cuidados de animais domésticos, especificamente cães e gatos.
 
