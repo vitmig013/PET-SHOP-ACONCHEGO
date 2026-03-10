@@ -1,6 +1,6 @@
 # PROJETO: PET SHOP ACONCHEGO
 
-	Integrantes do grupo
+Integrantes do grupo
 
 Gabriel dos Santos Loth
 Karyn Aparecida da Silva
@@ -10,22 +10,22 @@ Vitor Miguel Costa Macedo
 Wilson Gonsaga de Souza Neto
 
 
-OBJETIVO DO TRABALHO
+## OBJETIVO DO TRABALHO
 
 Criar um aplicativo Desktop, para o gerenciamento dos serviços prestados.
 
 
-PET SHOP ACONCHEGO
+## PET SHOP ACONCHEGO
 
 A empresa atua no ramo de prestação de serviços classificada como Micro Empresa (MEI), oferecendo banho e tosa por meio de agendamentos. Atualmente, a operação é realizada num espaço próprio, o pet será recolhido por um serviço de Táxi especializado, terá seus devidos cuidados realizados no estabelecimento, para posteriormente ser devolvido ao tutor pelo mesmo serviço. O Pet Shop tende a ser colaborativo, com um ambiente informal porém com foco no cuidado e bem-estar dos pets. A empresa valoriza a organização e a agilidade, tendo serviços realizados sempre nos prazos estabelecidos.
 
-MISSÃO
+### MISSÃO
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, promovendo bem-estar aos pets, priorizando a confiança e tranquilidade aos seus tutores.
 
-VISÃO
+### VISÃO
 Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e comprometimento com o cliente.
 
-VALORES
+### VALORES
 Ética e transparência com os clientes, atendimento humanizado, profissionalismo e responsabilidade.
 
 Problema: “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
