@@ -127,19 +127,19 @@ Se for difícil de usar, o cliente prefere ligar ou mandar mensagem,perdendo o o
   
 ## OBSTÁCULOS E RESTRIÇÕES
 
-Minha agenda encontra-se bastante restrita neste momento, podendo ser agendadas reuniões apenas nas terças e quartas-feiras no período da manhã.
+A agenda encontra-se bastante restrita neste momento, podendo ser agendadas reuniões apenas nas terças e quartas-feiras no período da manhã.
 
 O projeto contará com um orçamento inicial reduzido, portanto a implementação deve ser feita de maneira estratégica.
 
 O escopo deve respeitar estes limites:
 Funcionalidades:
-CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
+CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
   
   
 ### PERFIL DE USUÁRIO
 - GERENTE ( deve ter total acesso ao aplicativo);
 - ADMINISTRATIVO ( acesso ao cadastro e a agenda);
-- TOSADOR (acesso à uma página para descrição de intercorrência).
+- TOSADOR/ADESTRADOR (acesso à uma página para descrição de intercorrência).
   
 ### Classes de domínio
 - CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS, DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
