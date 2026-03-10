@@ -132,7 +132,8 @@ A agenda encontra-se bastante restrita neste momento, podendo ser agendadas reun
 O projeto contará com um orçamento inicial reduzido, portanto a implementação deve ser feita de maneira estratégica.
 
 O escopo deve respeitar estes limites:
-Funcionalidades:
+
+### Funcionalidades:  
 CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
   
   
@@ -142,7 +143,7 @@ CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
 - TOSADOR/ADESTRADOR (acesso à uma página para descrição de intercorrência).
   
 ### Classes de domínio
-- CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS, DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
+- CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
 
 **Realização do cadastro do cliente:**
 1. Cliente realiza cadastro ou realiza login quando já existe cadastro.
