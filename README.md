@@ -2,7 +2,7 @@
 
 Integrantes do grupo
 
-Gabriel dos Santos Loth
+Gabriel dos Santos Loth 
 Karyn Aparecida da Silva
 Kemily Teixeira dos Santos
 Marcio Anderson da Silva Cavalcante
