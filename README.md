@@ -68,7 +68,7 @@ Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e comprometime
 
 **Objetivo:** “A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
 
-### O que o aplicativo precisa oferecer (RF)
+## O que o aplicativo precisa oferecer (RF)
 
 Agendamento online
 O cliente deve conseguir marcar banho e tosa diretamente pelo aplicativo data, horário, tipo de serviço (banho, tosa, hidratação, etc.) e profissional disponível.
@@ -91,7 +91,7 @@ Para o dono do pet shop visualizar: agenda do dia, quantidade de atendimentos, c
 Facilidade de uso
 O aplicativo precisa ser: simples, rápido, fácil de entender para clientes e funcionários.
 
-### O que o aplicativo NÃO pode errar (RN)
+## O que o aplicativo NÃO pode errar (RN)
 
 1. Não pode permitir dois agendamentos no mesmo horário. Evitar conflitos de agenda.
 2. Não pode perder dados. Informações de clientes e pets devem ser armazenadas
