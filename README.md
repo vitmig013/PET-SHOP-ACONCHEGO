@@ -58,17 +58,17 @@ atendimento da creche é de 12 animais por dia.
   
 **Ficha da empresa:**
 
-**Nome:** Pet Shop Aconchego.
-**Ramo:** Serviços de cuidados com animais domésticos.
+**Nome:** Pet Shop Aconchego.  
+**Ramo:** Serviços de cuidados com animais domésticos.  
 
-**Porte da empresa:** pequeno/médio.
-**Total de funcionários:** 6.
-**Animais permitidos:** Cães e gatos.
-**Serviços oferecidos:** banho, tosa e creche para cães e gatos.
-**Horários e dias de funcionamento:**
-De terça a sábado;
-Banho e tosa: 09h às 17h20.
-**Creche:** 08h às 17h20.
+**Porte da empresa:** pequeno/médio.  
+**Total de funcionários:** 6.  
+**Animais permitidos:** Cães e gatos.  
+**Serviços oferecidos:** banho, tosa e creche para cães e gatos.  
+**Horários e dias de funcionamento:**  
+De terça a sábado;  
+Banho e tosa: 09h às 17h20.  
+**Creche:** 08h às 17h20.  
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
