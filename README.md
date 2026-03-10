@@ -62,13 +62,13 @@ atendimento da creche é de 12 animais por dia.
 **Ramo:** Serviços de cuidados com animais domésticos.  
 
 **Porte da empresa:** pequeno/médio.  
-**Total de funcionários:** 6.  
+**Total de funcionários:** 10.  
 **Animais permitidos:** Cães e gatos.  
 **Serviços oferecidos:** banho, tosa e creche para cães e gatos.  
 **Horários e dias de funcionamento:**  
-De terça a sábado;  
-Banho e tosa: 09h às 17h20.  
-**Creche:** 08h às 17h20.  
+De segunda a sábado;  
+Banho e tosa: 09h às 17h.  
+**Creche:** 09h às 17h.  
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
