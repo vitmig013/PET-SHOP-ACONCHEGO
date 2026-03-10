@@ -39,7 +39,7 @@ Atualmente, a Pet Shop Aconchego possui uma equipe formada por seis
 funcionários: um gerente, um administrador, dois funcionários responsáveis 
 pelos serviços de banho e tosa, e dois cuidadores que atuam na área da creche.
 
-Serviços Prestados
+### Serviços Prestados
 
 A Pet Shop Aconchego oferece serviços voltados ao cuidado e bem-estar 
 de animais domésticos, atuando nas áreas de banho, tosa e creche.
