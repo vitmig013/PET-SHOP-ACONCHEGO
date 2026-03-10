@@ -8,13 +8,13 @@ Kemily Teixeira dos Santos
 Marcio Anderson da Silva Cavalcante  
 Vitor Miguel Costa Macedo  
 Wilson Gonsaga de Souza Neto  
-
-
+  
+  
 ## OBJETIVO DO TRABALHO
 
 Criar um aplicativo Desktop, para o gerenciamento dos serviços prestados.
-
-
+  
+  
 ## PET SHOP ACONCHEGO
 
 ### Introdução
@@ -38,8 +38,8 @@ para oferecer conforto e segurança aos animais.
 Atualmente, a Pet Shop Aconchego possui uma equipe formada por seis
 funcionários: um gerente, um administrador, dois funcionários responsáveis 
 pelos serviços de banho e tosa, e dois cuidadores que atuam na área da creche.
-
-
+  
+  
 ### Serviços Prestados
 
 A Pet Shop Aconchego oferece serviços voltados ao cuidado e bem-estar 
@@ -54,8 +54,8 @@ O serviço de creche funciona em período estendido, das 8h às 17h20, e
 conta com dois cuidadores responsáveis pelo acompanhamento e supervisão 
 dos animais durante todo o período de permanência. A capacidade máxima de 
 atendimento da creche é de 12 animais por dia.
-
-
+  
+  
 ### MISSÃO
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, promovendo bem-estar aos pets, priorizando a confiança e tranquilidade aos seus tutores.
 
@@ -67,11 +67,9 @@ Ser reconhecida pela qualidade do serviço prestado, pelo cuidado e comprometime
 
 **Problema:** “Hoje a empresa faz controles e agendamentos de forma manual e isso causa atraso nos atendimentos e dificuldade no controle geral de insumos e na disponibilidade de horário/vagas. 
 
-
 **Objetivo:** “A solução deve permitir uma eficiência e agilidade no processo, reduzindo esforço físico e melhorando o armazenamento de arquivos.”
-
-
-
+  
+  
 ## O que o aplicativo precisa oferecer (RF)
 
 Agendamento online
@@ -94,9 +92,8 @@ Para o dono do pet shop visualizar: agenda do dia, quantidade de atendimentos, c
 
 Facilidade de uso
 O aplicativo precisa ser: simples, rápido, fácil de entender para clientes e funcionários.
-
-
-
+  
+  
 ## O que o aplicativo NÃO pode errar (RN)
 
 1. Não pode permitir dois agendamentos no mesmo horário. Evitar conflitos de agenda.
@@ -105,9 +102,8 @@ com segurança.
 3. Não pode ser lento o travar. O aplicativo precisa funcionar rápido, senão os clientes desistem de usar
 4. Não pode ser complicado
 Se for difícil de usar, o cliente prefere ligar ou mandar mensagem,perdendo o objetivo do sistema.
-
-
-
+  
+  
 ## OBSTÁCULOS E RESTRIÇÕES
 
 Minha agenda encontra-se bastante restrita neste momento, podendo ser agendadas reuniões apenas nas terças e quartas-feiras no período da manhã.
@@ -117,8 +113,8 @@ O projeto contará com um orçamento inicial reduzido, portanto a implementaçã
 O escopo deve respeitar estes limites:
 Funcionalidades:
 CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
-
-
+  
+  
 ### PERFIL DE USUÁRIO
 - GERENTE ( deve ter total acesso ao aplicativo);
 - ADMINISTRATIVO ( acesso ao cadastro e a agenda);
