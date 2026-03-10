@@ -145,13 +145,16 @@ CADASTRO, VENDAS, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI
 - CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS, DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
 
 Realização do cadastro do cliente;
-1. Cliente realiza cadastro ou realiza login quando já existe cadastro.  
- _ Validar e armazenar informações;  
-2.1. O sistema valida as informações e as armazena ou exibe uma mensagem de erro.  
-O sistema oferece serviços e o cliente seleciona o desejado;  
+1. Cliente realiza cadastro ou realiza login quando já existe cadastro.
+  
+2. Validar e armazenar informações;  
+2.1. O sistema valida as informações e as armazena ou exibe uma mensagem de erro.
+     
+3. O sistema oferece serviços e o cliente seleciona o desejado;  
 3.1. O sistema oferece calendário para seleção de datas e serviços prestados disponíveis.  
-3.2. O cliente seleciona data e horário desejado o tornando indisponível para uma nova seleção.  
-O sistema exibe mensagem de sucesso.  
+3.2. O cliente seleciona data e horário desejado o tornando indisponível para uma nova seleção.
+     
+4. O sistema exibe mensagem de sucesso.  
 4.1. O sistema exibe uma mensagem de agradecimento e que o horário foi reservado com sucesso.  
 
 
