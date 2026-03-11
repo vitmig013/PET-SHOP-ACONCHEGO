@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.15 - 10/03/2026  
+Versão: 1.25 - 10/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -56,7 +56,7 @@ dos animais durante todo o período de permanência. A capacidade máxima de
 atendimento da creche é de 12 animais por dia.
   
   
-**Ficha da empresa:**
+### Ficha da empresa:
 
 **Nome:** Pet Shop Aconchego.  
 **Ramo:** Serviços de cuidados com animais domésticos.  
@@ -145,7 +145,7 @@ CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
 ### Classes de domínio
 - CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
 
-**Realização do cadastro do cliente:**
+### Realização do cadastro do cliente:
 1. Cliente realiza cadastro ou realiza login quando já existe cadastro.
   
 2. Validar e armazenar informações;  
