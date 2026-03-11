@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.25 - 10/03/2026  
+Versão: 1.26 - 10/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -8,7 +8,7 @@ Kemily Teixeira dos Santos
 Marcio Anderson da Silva Cavalcante  
 Vitor Miguel Costa Macedo  
 Wilson Gonsaga de Souza Neto  
-  
+Lucas de Freitas Costa  
   
 ## OBJETIVO DO TRABALHO
 
@@ -69,6 +69,7 @@ atendimento da creche é de 12 animais por dia.
 De segunda a sábado;  
 Banho e tosa: 09h às 17h.  
 **Creche:** 09h às 17h.  
+
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
