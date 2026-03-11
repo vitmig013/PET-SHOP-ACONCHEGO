@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.26 - 10/03/2026  
+Versão: 1.28 - 10/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -73,6 +73,9 @@ Banho e tosa: 09h às 17h.
 | Serviço | Porte pequeno | Porte médio | Porte grande |
 | --- | --- | --- | --- |
 | Banho | 40 min | 60 min | 90 min |
+| Tosa | 30 min | 45 min | 60 min |
+| Banho + Tosa | 60 min | 90 min | 120h |
+- Buffer de 30 minutos por serviço
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
