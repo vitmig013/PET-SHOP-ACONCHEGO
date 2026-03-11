@@ -70,6 +70,9 @@ De segunda a sábado;
 Banho e tosa: 09h às 17h.  
 **Creche:** 09h às 17h.  
 
+| Serviço | Porte pequeno | Porte médio | Porte grande |
+| --- | --- | --- | --- |
+| Banho | 40 min | 60 min | 90 min |
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
