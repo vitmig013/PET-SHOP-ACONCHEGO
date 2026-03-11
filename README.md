@@ -74,7 +74,7 @@ Banho e tosa: 09h às 17h.
 | --- | --- | --- | --- |
 | Banho | 40 min | 60 min | 90 min |
 | Tosa | 30 min | 45 min | 60 min |
-| Banho + Tosa | 60 min | 90 min | 120h |
+| Banho + Tosa | 60 min | 90 min | 120 min |
 - Buffer de 30 minutos por serviço
 
 ### Missão:
