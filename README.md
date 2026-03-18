@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.29 - 10/03/2026  
+Versão: 1.30 - 18/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -36,8 +36,8 @@ Paulo/SP, a empresa conta com uma infraestrutura simples, porém adequada
 para oferecer conforto e segurança aos animais.
 
 Atualmente, a Pet Shop Aconchego possui uma equipe formada por seis
-funcionários: um gerente, um administrador, dois funcionários responsáveis 
-pelos serviços de banho e tosa, e dois cuidadores que atuam na área da creche.
+funcionários: um gerente, um administrador, quatro funcionários responsáveis 
+pelos serviços de banho e tosa, e quatro cuidadores que atuam na área da creche.
   
   
 ### Serviços Prestados
