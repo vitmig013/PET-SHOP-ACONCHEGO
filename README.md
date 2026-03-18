@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.28 - 10/03/2026  
+Versão: 1.29 - 10/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -147,7 +147,7 @@ CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
 ### PERFIL DE USUÁRIO
 - GERENTE ( deve ter total acesso ao aplicativo);
 - ADMINISTRATIVO ( acesso ao cadastro e a agenda);
-- TOSADOR/ADESTRADOR (acesso à uma página para descrição de intercorrência).
+- TOSADOR/CUIDADOR (acesso à uma página para descrição de intercorrência).
   
 ### Classes de domínio
 - CLIENTE, PRODUTOS, SERVIÇOS, HORÁRIOS DISPONÍVEIS, DIÁRIAS DISPONÍVEIS, FUNCIONÁRIO RESPONSÁVEL.
