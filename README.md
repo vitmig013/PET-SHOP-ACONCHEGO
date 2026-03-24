@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.30 - 18/03/2026  
+Versão: 1.31 - 24/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -51,7 +51,7 @@ de 8 atendimentos por dia, totalizando aproximadamente 176 atendimentos
 mensais nos serviços de banho e tosa.
 
 O serviço de creche funciona em período estendido, das 9h às 17h, e 
-conta com dois cuidadores responsáveis pelo acompanhamento e supervisão 
+conta com quatro cuidadores responsáveis pelo acompanhamento e supervisão 
 dos animais durante todo o período de permanência. A capacidade máxima de 
 atendimento da creche é de 12 animais por dia.
   
@@ -75,7 +75,7 @@ Banho e tosa: 09h às 17h.
 | Banho | 40 min | 60 min | 90 min |
 | Tosa | 30 min | 45 min | 60 min |
 | Banho + Tosa | 60 min | 90 min | 120 min |
-- Buffer de 30 minutos por serviço
+- Buffer maleável: intervalo ajustável para cada atendimento, garantindo organização de agenda.
 
 ### Missão:
 Oferecer serviços de banho e tosa com excelência, segurança e carinho, 
@@ -129,7 +129,7 @@ O aplicativo precisa ser: simples, rápido, fácil de entender para clientes e f
 com segurança.
 3. Não pode ser lento o travar. O aplicativo precisa funcionar rápido, senão os clientes desistem de usar
 4. Não pode ser complicado
-Se for difícil de usar, o cliente prefere ligar ou mandar mensagem,perdendo o objetivo do sistema.
+Se for difícil de usar, o cliente prefere ligar ou mandar mensagem, perdendo o objetivo do sistema.
   
   
 ## OBSTÁCULOS E RESTRIÇÕES
@@ -138,10 +138,12 @@ A agenda encontra-se bastante restrita neste momento, podendo ser agendadas reun
 
 O projeto contará com um orçamento inicial reduzido, portanto a implementação deve ser feita de maneira estratégica.
 
+Táxi pet removido (função considerada excesso)
+
 O escopo deve respeitar estes limites:
 
 ### Funcionalidades:  
-CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET, TAXI PET.
+CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET.
   
   
 ### PERFIL DE USUÁRIO
