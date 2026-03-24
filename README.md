@@ -1,5 +1,5 @@
 # PROJETO: PET SHOP ACONCHEGO
-Versão: 1.31 - 24/03/2026  
+Versão: 1.32 - 24/03/2026  
 Integrantes do grupo
 
 Gabriel dos Santos Loth  
@@ -143,7 +143,7 @@ Táxi pet removido (função considerada excesso)
 O escopo deve respeitar estes limites:
 
 ### Funcionalidades:  
-CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, HOTEL PET.
+CADASTRO, AGENDAMENTO PARA BANHO, AGENDAMENTO PARA TOSA, CRECHE PET.
   
   
 ### PERFIL DE USUÁRIO
